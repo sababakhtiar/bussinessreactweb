@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bussinessreactweb/static/css/main.844dd401.css",
+    "main.js": "/bussinessreactweb/static/js/main.86c7a277.js",
+    "static/media/pho.jpg": "/bussinessreactweb/static/media/pho.3d4be08ba681aede23b6.jpg",
+    "static/media/app.png": "/bussinessreactweb/static/media/app.9134746399a3ca6b4ee9.png",
+    "static/media/rocket-maker.png": "/bussinessreactweb/static/media/rocket-maker.0e97b3bb6d561bc16fc6.png",
+    "static/media/vid3.jpg": "/bussinessreactweb/static/media/vid3.5419c6d31ac573f90f36.jpg",
+    "static/media/vid4.png": "/bussinessreactweb/static/media/vid4.92b9b6a5a7175719e998.png",
+    "static/media/SEO.png": "/bussinessreactweb/static/media/SEO.1ba093eb662aaf8049ad.png",
+    "index.html": "/bussinessreactweb/index.html",
+    "main.844dd401.css.map": "/bussinessreactweb/static/css/main.844dd401.css.map",
+    "main.86c7a277.js.map": "/bussinessreactweb/static/js/main.86c7a277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.844dd401.css",
+    "static/js/main.86c7a277.js"
+  ]
+}
