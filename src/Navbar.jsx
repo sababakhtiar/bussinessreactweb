@@ -17,10 +17,10 @@ const Navbar = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ms-auto  mb-2 mb-lg-0">
+      <ul className="navbar-nav ms-auto  mb-2 mb-lg-0">
         <li className="nav-item">
-          <NavLink activeClassName="menu_active"className="nav-link"
-           aria-current="page" to="/">Home</ NavLink > 
+          <NavLink className="menu_active nav-link"
+           aria-current="page" to="/bussinessreactweb">Home</ NavLink > 
         </li>
         <li className="nav-item">
           < NavLink activeClassName="menu_active" className="nav-link" to="/service">Services</NavLink >

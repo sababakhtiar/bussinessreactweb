@@ -6,7 +6,7 @@ import Common from "./Common";
 function Home() {
   return (
     <>
-   <Common  name="Grow your business with " imgsrc={web} visit="/service" btname="Get Started"/>
+   <Common name="Grow your business with " imgsrc={web} visit="/service" btname="Get Started"/>
     </>
   );
 };
